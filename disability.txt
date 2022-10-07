@@ -1,0 +1,20 @@
+MEDICAL MODEL - basically views disability as a problem of the person, and that the person is responsible 
+for finding a solution to any barriers they encounter, caused by their disability.
+
+    Strengths: The medical model can address the biological sources of disabilities, either by clinically curing them, or providing ways to medically
+                manage the conditions. The medical component of disabilities is a critical reality for many people.
+
+    Weaknesses: The medical model treats disability as a problem or inherent characteristic of the individual, and seeks a cure or medical
+                management of a bodily condition, often over looking the broader sociopolitical constrainst imposed by unwelcoming or inaccessible
+                environments.
+
+    Example:
+            - A person in a wheelchair is unable to get into a building because the only way to access it is by using steps.
+            - A person who has red-green color-blindness cannot tell the status of their project in the company's online project portfolio,
+                because the status is indicated in red and green instead of being indicated by text labels.
+            - Someone who is hard of hearing and attending a local government meeting in a large room cannot understand everything the mayor 
+                is saying because the mayor is speaking without a microphone.
+
+SOCIAL MODEL - Social model of disability sees the issue of disabilit as a socially created problem.
+            - The social model of disability sees the issue of 'disability' as a socially created problem and a matter of the full integration of individuals into society.
+            - In this model, disability is not an attribtue of an individual, but rather a complex collection of conditions, many of which are created by the social environment.
