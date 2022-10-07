@@ -18,3 +18,29 @@ for finding a solution to any barriers they encounter, caused by their disabilit
 SOCIAL MODEL - Social model of disability sees the issue of disabilit as a socially created problem.
             - The social model of disability sees the issue of 'disability' as a socially created problem and a matter of the full integration of individuals into society.
             - In this model, disability is not an attribtue of an individual, but rather a complex collection of conditions, many of which are created by the social environment.
+
+        Strengths: The social model emphasizes that people with disabilities have a right to participate in society. The model's focus on the disabling conditions in the environment
+                    and in society makes it clear that the barriers and challenges experienced by people with disabilities are not inevitable.
+        
+        Weaknesses: The social model of disability can tend to downplay the biological reality of disability. The social nodel's push for sicla justice in the political aren 
+                    can also put activists at odds with people with other political interests.
+
+        Examples:
+                - In the medical model, a person who cannot use the stairs to navigate a building needs to find their own solution. such as by using a motorized wheelchair
+                that can climb the stairs. In the social model, the building is designed to be accessible, perhaps with ramps or elevators instead of stairs.
+
+                - In the social model, a textbook is available in not only in print but also in digital and audio formats, so that all learners can access its information in a way
+                that is best suited for them.
+
+BIOPSYCHOSOCIAL MODEL - integrates the medical and social models and recognizes the complex interplay of biology, psychology, and socio-environmental factors in disability.
+                - A better model of disability, in short, is one that synthesizes what is true in the medical and social models, without making the mistake each makes in reducing
+                the whole, complex notion of disability to one of its aspects. This more useful model of disability might be called the biopsychosocial model.
+
+                Strengths: The biopsychosocial model takes into account the whole person in the social context and focuses on environmental factors- physical, social, and attitudinal
+                in which people with disabilities live.
+
+                            It promotes self-efficacy for people with disabilities, which can help them gain control of their lives. The model also promotes social support, which
+                ultimately leads to better well-being for society overall.
+
+                Weakenesses: Because the model is more complex than the medical or social models, it can confuse people, particularly non-professionals, on which aspects of someone's
+                experience are due to which factors.
