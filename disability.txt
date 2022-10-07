@@ -44,3 +44,12 @@ BIOPSYCHOSOCIAL MODEL - integrates the medical and social models and recognizes 
 
                 Weakenesses: Because the model is more complex than the medical or social models, it can confuse people, particularly non-professionals, on which aspects of someone's
                 experience are due to which factors.
+
+                EXAMPLE: 
+
+                    - In a workplace video conference meeting, supervisors provide directions about how people can participate, for example, by not insisting everyone make themselves visible.
+                    This recognizes that people have various and legitimate reasons, including psychological, for participating as they prefer.
+
+                    -Wayfinding signs in a hospital are designed to be easily read and understood, recognizing that patients and visitors are under stress and easily disoriented.
+
+                    (So this one differs from social, as it also considers personal /psychological factors a person may have.)
